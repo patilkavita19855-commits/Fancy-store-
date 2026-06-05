@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "8GwM_o1oPF955YeJFSroJ"
+uri = "file://artifacts/fashion-store/public/images/hero.png"
+type = "image"
+title = "Hero editorial fashion photography"
+
+[[generated]]
+id = "Eu59Pjv3yhrAJ5pfsgwlT"
+uri = "file://artifacts/fashion-store/public/images/cat-women.png"
+type = "image"
+title = "Women's fashion category"
+
+[[generated]]
+id = "pfQQeRkNzSJhd-ZywmvlK"
+uri = "file://artifacts/fashion-store/public/images/cat-men.png"
+type = "image"
+title = "Men's fashion category"
+
+[[generated]]
+id = "gTvDQxNBCKC22fc_Dj7va"
+uri = "file://artifacts/fashion-store/public/images/prod-coat.png"
+type = "image"
+title = "Cashmere Overcoat"
+
+[[generated]]
+id = "SCFfGTbrQdd5ZlVXTpXXR"
+uri = "file://artifacts/fashion-store/public/images/prod-necklace.png"
+type = "image"
+title = "Gold Chain Necklace"
+
+[[generated]]
+id = "Zgt-kDsPOvUweB0_vN-pt"
+uri = "file://artifacts/fashion-store/public/images/prod-trousers.png"
+type = "image"
+title = "Pleated Trousers"
+
+[[generated]]
+id = "I5SnUL6_fPF6eNdO_Nm_7"
+uri = "file://artifacts/fashion-store/public/images/cat-accessories.png"
+type = "image"
+title = "Accessories category"
+
+[[generated]]
+id = "OQ3ABfQ9AUmHu0KHLQ4F-"
+uri = "file://artifacts/fashion-store/public/images/cat-new.png"
+type = "image"
+title = "New Arrivals category"
+
+[[generated]]
+id = "v1v4OYxwEyUHLzHySPEed"
+uri = "file://artifacts/fashion-store/public/images/prod-dress.png"
+type = "image"
+title = "Silk Slip Dress"
+
+[[generated]]
+id = "mKJsi6FLNsImba58EGhMk"
+uri = "file://artifacts/fashion-store/public/images/prod-bag.png"
+type = "image"
+title = "Leather Weekender"
